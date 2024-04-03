@@ -1,4 +1,3 @@
-# https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -11,5 +10,5 @@
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api?username={Kyung-Min-Na}&theme=blue-green"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Kyung-Min-Na}&theme=blue-green"/>
